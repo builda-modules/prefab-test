@@ -10,5 +10,13 @@
     "url": "https://github.com/builda-modules/prefab-test",
     "custom_files": [
         "pages/home/*"
-    ]
+    ],
+    "blueprints": {
+        "component": {
+            "location": "./blueprints/component"
+        },
+        "page": {
+            "location": "./blueprints/page"
+        }
+    }
 }
