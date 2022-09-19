@@ -13,10 +13,10 @@
     ],
     "blueprints": {
         "component": {
-            "location": "./blueprints/component"
+            "location": "prefab"
         },
         "page": {
-            "location": "./blueprints/page"
+            "location": "prefab"
         }
     }
 }
