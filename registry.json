@@ -8,7 +8,7 @@
     },
     "funding": "https://www.patreon.com/builda",
     "url": "https://github.com/builda-modules/prefab-test",
-    "custom_files": [
+    "appFiles": [
         "pages/home/*"
     ],
     "blueprints": {
