@@ -6,7 +6,7 @@
         "name": "Alex Foxleigh",
         "buildaUser": "foxleigh81"
     },
-    "funding": "https://www.patreon.com/builda",
+    "funding": ["https://www.patreon.com/builda"],
     "url": "https://github.com/builda-modules/prefab-test",
     "appFiles": [
         "pages/home/*"
