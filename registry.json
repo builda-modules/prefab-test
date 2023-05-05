@@ -11,6 +11,9 @@
     "appFiles": [
         "pages/home/*"
     ],
+    "uniqueInstances": [
+        "./tsconfig.json"
+    ],
     "blueprints": {
         "component": {
             "location": "prefab"

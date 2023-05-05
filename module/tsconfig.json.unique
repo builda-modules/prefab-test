@@ -1,0 +1,3 @@
+{
+  "extends": "./.builda/export/tsconfig.json"
+}
